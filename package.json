@@ -34,7 +34,7 @@
   ],
   "homepage": "http://mailgun.com",
   "dependencies": {
-    "consolidate": "^0.15.1",
+    "consolidate": "https://github.com/eytanronen/consolidate.js.git",
     "mailgun-js": "^0.22.0"
   },
   "devDependencies": {
