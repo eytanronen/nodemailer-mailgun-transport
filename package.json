@@ -1,5 +1,5 @@
 {
-  "name": "nodemailer-mailgun-transport",
+  "name": "nodemailer-mailgun-transport fork",
   "main": "src/index.js",
   "description": "A transport module to use with nodemailer to leverage Mailgun's REST API",
   "version": "2.0.1",
